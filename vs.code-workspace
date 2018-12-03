@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "inbox"
+		},
+		{
+			"path": "lottery"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
